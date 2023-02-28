@@ -73,6 +73,10 @@ Clone this [repository](https://github.com/harshitajain06/Vet_Clinic.git) to you
 - GitHub: [@ohyajk](https://github.com/ohyajk)
 - LinkedIn: [@ohyajk](https://www.linkedin.com/in/ohyajk/)
 
+👤 **Wahaj Ali**
+- GitHub: [@Wahaj-Ali](https://github.com/Wahaj-Ali)
+- LinkedIn: [@wahaj-ali96](https://www.linkedin.com/in/wahaj-ali96/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
