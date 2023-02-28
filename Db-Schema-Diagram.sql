@@ -10,3 +10,5 @@ CREATE TABLE invoice_items (id SERIAL PRIMARY KEY, unit_price DECIMAL, quantity 
 
 -- Add Foreign Keys
 ALTER TABLE medical_histories ADD FOREIGN KEY (patient_id) REFERENCES patients(id);
+
+ALTER TABLE invoices ADD FOREIGN KEY (medical_history_id) REFERENCES medical_histories(id);
