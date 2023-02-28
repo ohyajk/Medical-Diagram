@@ -15,6 +15,8 @@ ALTER TABLE invoices ADD FOREIGN KEY (medical_history_id) REFERENCES medical_his
 
 ALTER TABLE invoice_items ADD FOREIGN KEY (treatment_id) REFERENCES treatments(id);
 
+ALTER TABLE invoice_items ADD FOREIGN KEY (invoice_id) REFERENCES invoices(id);
+
 --  Create join table
 create table medical_history_treatments ( medical_history_id int, treatment_id int, primary key(medical_history_id, treatment_id));
 
